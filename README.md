@@ -12,4 +12,4 @@ Please click the link for my presentation video: [link](https://youtu.be/gk0k4-Y
 
 - Supporting Video for my poster: [link](https://youtu.be/weBIiD2IMTo)
 
-[./find me.png](https://github.com/thereexist/TMCQ_2024/blob/main/find%20me.png)
+![./find me.png](https://github.com/thereexist/TMCQ_2024/blob/main/find%20me.png)
